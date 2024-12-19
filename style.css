@@ -13,7 +13,7 @@
     height: 100vh;
     width: 100%;
    display: flex;
-   padding: 20px;
+   padding: 60px;
 }
 
 
@@ -133,4 +133,26 @@
 .or{
     padding-left:  110px;
     color: #B8E7FF;
+}
+
+.Account{
+    border: solid #E3E3E3;
+    color: #FFFFFF;
+    background-color: #EB5017;
+    padding-left: 70px;
+    border-radius: 10px;
+    width: 250px;
+    height: 5vh;
+    padding-top: 5px;
+}
+
+.up{
+    border: solid #E3E3E3;
+    color: #344054;
+    
+    padding-left: 50px;
+    border-radius: 10px;
+    width: 250px;
+    height: 5vh;
+    padding-top: 5px;
 }
